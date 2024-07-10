@@ -148,3 +148,161 @@ margin-top: 20px;
     margin-left: 100px;
 }
 /* developer section starts here */
+/* inspiration setion  starts here */
+.inspiration-container{
+    width:1100px;
+    height:550px;
+    margin: 0 auto;
+    margin-top: -200px;
+}
+.inspiration-container h1{
+    width:852px;
+    height:39px;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+padding-left: 80px;
+}
+.inspiration-container p{
+    width: 850px;
+    height: 50px;
+color: rgb(30, 30, 30);
+text-align: center;
+padding-left: 70px;
+margin-top: 15px;
+}
+.inspiration-video{
+    width: 1070px;
+    height: 550px;
+    border-radius: 16px;
+background: url(Jhankar);
+text-align: center;
+}
+.current-turget{
+    width: 1130px;
+    height: 420px;
+    margin: 0 auto;
+}
+.current-turget h1{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 20px;
+}
+.current-turget p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+}
+.fram{
+    width: 1100px;
+    height: 300px;
+    border-radius: 16px;
+background: rgba(255, 76, 30, 0.05);
+display: flex;
+}
+.fram1{
+ width:340px;
+ height:300px;
+ display: flex;
+}
+.fram-html{
+    margin-left: 50px;
+    width: 284px;
+    height: 220px;
+    background-color:aliceblue;
+    margin-top:40px;
+}
+.fram-html img{
+   margin-top: 10px;
+}
+.fram-html h1{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+}
+.fram-html p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+}
+.fram-html li a{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+
+}
+/* inspiration setion ends here */
+.support-container{
+    width: 1140px;
+    border-radius: 16px;
+
+background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),url(Email);
+    height: 314px;
+    margin: 0 auto;
+    background-image:url(../images/handshake.jpg) ;
+
+}
+.suppor-content h1{
+    color: white;
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: center;
+margin-top:50px;
+}
+.suppor-content p{
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 15px;
+}
+.suppor-content form{
+    color: rgba(13, 19, 33, 0.4);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 15px;
+}
+footer{
+    width: 1100px;
+    height:700px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
